@@ -24,7 +24,7 @@ const FactoryDashboard = () => {
         <ChartTwo />
         <ChartThree />
         <MapOne />
-        <div className="col-span-12 xl:col-span-8">
+        <div className="col-span-12  xl:col-span-8">
           <TableOne />
         </div>
         <ChatCard />
